@@ -1,4 +1,5 @@
 ***NoBrokerage AI Chat Assistant***
+
 Welcome to NoBrokerage AI Chat, your intelligent assistant for finding properties in India using natural language. Instead of manually applying filters, you can simply ask questions like “3BHK flat in Pune under ₹1.2 Cr” or “Ready-to-move 2BHK near Baner, Pune,” and the AI will fetch relevant properties along with a concise summary.
 
 **Live Demo**
@@ -26,3 +27,4 @@ The project is organized into two main folders: backend contains the Node.js API
 
 **Future Improvements**
 Potential enhancements include adding semantic search using embeddings for smarter results, integrating OpenAI or Hugging Face models for more natural conversations, and implementing user authentication with personalized recommendations.
+
