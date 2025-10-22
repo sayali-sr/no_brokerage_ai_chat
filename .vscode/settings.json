@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/sayal/Desktop/no_brokerage/frontend/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "C:/Users/sayal/AppData/Roaming/Python/Python313/site-packages"
+    ],
+    "python.analysis.autoSearchPaths": true,
+    "python.languageServer": "Pylance"
+}
