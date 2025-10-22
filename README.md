@@ -31,7 +31,9 @@ All data is fetched from the PostgreSQL database, so no listings are hardcoded. 
 
 The project is organized into two main folders: backend contains the Node.js API and database service code, while frontend contains the Streamlit application. A data folder stores sample CSVs used for populating the database, and a .env.example file shows sample environment variables for PostgreSQL connection.
 
-**Future Improvements**
+**Future Improvements**:
+
 Potential enhancements include adding semantic search using embeddings for smarter results, integrating OpenAI or Hugging Face models for more natural conversations, and implementing user authentication with personalized recommendations.
+
 
 
