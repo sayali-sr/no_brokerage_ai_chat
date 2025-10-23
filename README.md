@@ -36,4 +36,9 @@ The project is organized into two main folders: backend contains the Node.js API
 Potential enhancements include adding semantic search using embeddings for smarter results, integrating OpenAI or Hugging Face models for more natural conversations, and implementing user authentication with personalized recommendations.
 
 
+**Watch Live Demo:** [Watch Live Demo](https://www.loom.com/share/9b8c6068b38443e0b966b2056109a9f3)
+
+
+
+
 
